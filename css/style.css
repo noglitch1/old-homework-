@@ -1,0 +1,19 @@
+h1
+{
+background-color:blue;
+  background-image:url(https://media.licdn.com/mpr/mpr/p/7/005/06a/225/0a69725.jpg);
+ color:rgb(255,255,255); 
+}
+body {
+  background-color:rgb(131,127,136);
+} 
+#detail{
+  background-color:rgb(69,112,139);
+  color:rgb(255,255,255); 
+  font-size:29px;
+}
+
+h6{
+  color:rgb(255,255,255);
+  font-size:19px;
+}
